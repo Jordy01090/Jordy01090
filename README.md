@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **MySQL, OracleDB, Front-end technologies, Web Aplications, Java, Python**
+- 🔭 I’m currently working on **Front-end technologies, Typescript, React, MySQL, OracleDB,**
 
 - 🌱 I’m currently learning **to create high-quality applications and websites applying responsive designs for code reliability**
 
